@@ -46,9 +46,11 @@ SOAL UJIAN AKHIR SEMESTER (UAS)
 
 ![14_UAS_package dan modul daftar nilai](Gambar/8_New_pyton_View_pythfile.jpg)
 
-- Nama program python sudah kita buat :
+- Dan kita buat nama program Python dengan Klik di luar Folder > pilih New >Python File dengan nama :  main.py
 
 ![14_UAS_package dan modul daftar nilai](Gambar/9_Direct_new_project.jpg)
+
+- Nama program python sudah kita buat :
 
 # **Buat syntax program python**
 
@@ -89,7 +91,7 @@ Penjelasan:<br>
   - Def tambah data<br>
 Penjelasan:<br>
     - Disini kita buat inputan karena tadi kita sudah membuat kata - kata outputnya kali ini kita cukup membuat inputan data mahasiswanya saja<br>
-    - Jangan lupa gunakan perkalian untuk menghitunghasil total atau rata- ratanya<br>
+    - Jangan lupa gunakan perkalian untuk menghitung hasil total atau rata- ratanya<br>
     
 **Membuat code program `view_nilai.py`**
 
