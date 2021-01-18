@@ -2,7 +2,7 @@
 
 BAHASA PEMROGRAMAN
 
-TEHNIK INFORMATIKA
+TEKNIK INFORMATIKA
 
 UNIVERSITAS PELITA BANGSA
 
@@ -16,7 +16,7 @@ DOSEN   : Agung Nugroho,S.Kom.,M.Kom
 
 SOAL UJIAN AKHIR SEMESTER (UAS)
 
-**Buat package dan modul dengan struktur**
+# _**Buat package dan modul dengan struktur**_
 
 ![14_UAS_package dan modul daftar nilai](Gambar/1_Tugas_UAS.jpg)
 
@@ -24,11 +24,11 @@ SOAL UJIAN AKHIR SEMESTER (UAS)
 
 ![14_UAS_package dan modul daftar nilai](Gambar/2_New_project.jpg)
 
-- Pilih `New Project` Lalu simpan project sesuai Location Directory dan beri nama folder :
+- [x] Pilih `New Project` Lalu simpan project sesuai Location Directory dan beri nama folder :
 
 ![14_UAS_package dan modul daftar nilai](Gambar/3_New_project_Loc.jpg)
 
-- Kemudian Pilih New > Python Package :
+- [x] Kemudian Pilih New > Python Package :
 
        " -> Kita buat Nama Model dan View "
 
@@ -140,44 +140,44 @@ Penjelasan:<br>
 
 - Untuk menjalankan program kita klik : Run > `main.py`
 
-* Pilih Menu Nomor : 1. Tambah
+- [x] Pilih Menu Nomor : 1. Tambah
 
 ![14_UAS_package dan modul daftar nilai](Gambar/16_Tambah_data.jpg)
 
-* Pilih Menu Nomor : 2. Tampil
+- [x] Pilih Menu Nomor : 2. Tampil
 
 ![14_UAS_package dan modul daftar nilai](Gambar/17_Tampilkan_data.jpg)
 
-* Untuk Menambah data lagi,pilih Menu Nomor : 1. Tambah
+- [x] Untuk Menambah data lagi,pilih Menu Nomor : 1. Tambah
 
 ![14_UAS_package dan modul daftar nilai](Gambar/18_Tambah_data_lagi.jpg)
 
-* Untuk menampilkan data yang kita tambah,Pilih Menu Nomor : 2. Tampil
+- [x] Untuk menampilkan data yang kita tambah,Pilih Menu Nomor : 2. Tampil
 
 ![14_UAS_package dan modul daftar nilai](Gambar/19_Tampilkan_data_lagi.jpg)
 
-* Pilih Menu Nomor : 3. Hapus
+- [x] Pilih Menu Nomor : 3. Hapus
 
 ![14_UAS_package dan modul daftar nilai](Gambar/20_Hapus_data.jpg)
 
-* Untuk menampilkan data yang kita hapus,Pilih Menu Nomor : 2. Tampil
+- [x] Untuk menampilkan data yang kita hapus,Pilih Menu Nomor : 2. Tampil
 
 ![14_UAS_package dan modul daftar nilai](Gambar/21_Tampilakan_Hapus_data.jpg)
 
-* Pilih Menu Nomor : 4. Ubah
+- [x] Pilih Menu Nomor : 4. Ubah
 
 ![14_UAS_package dan modul daftar nilai](Gambar/22_Ubah_data.jpg)
 
-* Untuk menampilkan data yang kita ubah,Pilih Menu Nomor : 2. Tampil
+- [x] Untuk menampilkan data yang kita ubah,Pilih Menu Nomor : 2. Tampil
 
 ![14_UAS_package dan modul daftar nilai](Gambar/23_Tampilkan_Ubah_data.jpg)
 
-* Pilih Menu Nomor : 5. Cari
+- [x] Pilih Menu Nomor : 5. Cari
 * > Kemudian ketik Nama Mahasiswa
 
 ![14_UAS_package dan modul daftar nilai](Gambar/24_Tampilkan_cari_data.jpg)
 
-* Pilih Menu Nomor : 6. Keluar dari program
+- [x] Pilih Menu Nomor : 6. Keluar dari program
 
 ![14_UAS_package dan modul daftar nilai](Gambar/25_Keluar_program.jpg)
 
